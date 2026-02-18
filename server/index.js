@@ -14,8 +14,9 @@ const app = express();
  */
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://real-time-chat-app-ten-rosy.vercel.app", // ✅ no trailing slash
+  "https://real-time-chat-app-rishikeshvelpulas-projects.vercel.app",
 ];
+
 
 /**
  * ✅ CORS for REST APIs
